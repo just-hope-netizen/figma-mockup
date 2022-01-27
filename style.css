@@ -1,0 +1,35 @@
+
+a{
+    text-decoration: none !important;
+    color: white;
+}
+p{
+    margin-bottom: 0 !important;
+    
+}
+.sign-btn, ul, .login-btn{
+    font-size: 14px;
+}
+.sign-btn{
+    color: #309975;
+}
+.sign-btn-wrapper{
+    background-color:  #DAD873;
+    
+
+}
+.li-wrapper > li{
+    line-height: 2.8;
+    font-size: 18px;
+}
+.show{
+    display: block;
+}
+@media  (max-width: 990px){
+    .hero{
+        display: none;
+    }
+    .Petal{
+        margin: 0  0 2rem!important;
+    }
+}
